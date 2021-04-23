@@ -23,8 +23,8 @@ video#filme {
     width: 440px;
 }
 
-/* Video da página inicial */
+/* Video do Aside da página inicial */
 
 video#video02 {
-    width: 350px;
+    width: 100%;
 }
