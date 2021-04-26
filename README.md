@@ -10,4 +10,5 @@ Este projeto possue as seguintes tecnologias:
 - **CSS3**
 - **JavaScript**
 
-![alt text](https://github.com/thyagosantorini/site-google-glass/_imagens/)
+
+![Ainimação do Projeto Finalizado](https://github.com/thyagosantorini/site-google-glass/blob/main/_imagens/Projeto-Concluido.gif)
